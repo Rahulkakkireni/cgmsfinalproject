@@ -16,7 +16,7 @@ function App() {
   return (
        <>
           <Routes>
-            <Route path='/' element={<Content/>}/>
+            <Route path='/cgmsfinalproject' element={<Content/>}/>
             <Route path='/Griveancepage' element={<Griveancepage/>}/>
             {/* <Route path='/GriveanceEdit' element={<GrievanceEdit/>}/> */}
             <Route path='/Admin' element={<Admin/>}/>
